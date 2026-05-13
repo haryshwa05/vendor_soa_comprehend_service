@@ -1,0 +1,8 @@
+beautifulsoup4
+extract-msg
+fastapi
+openpyxl
+pdfplumber
+pydantic
+python-multipart
+uvicorn
